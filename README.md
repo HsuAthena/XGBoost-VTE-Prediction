@@ -1,4 +1,4 @@
-# VTE-Prediction-XGBoost
+# XGBoost-VTE-Prediction
 Predicted patients whether they have venous thrombosis embolism. Applying XGBoost
 
 XGBoost stands for "eXtreme Gradient Boosting" and is an optimized distributed gradient boosting library designed to be highly efficient, flexible, and portable. It is an open-source tool that has gained significant popularity in machine learning due to its performance and accuracy. The core XGBoost algorithm is based on the gradient boosting framework, which is a machine learning algorithm used for regression and classification problems.
